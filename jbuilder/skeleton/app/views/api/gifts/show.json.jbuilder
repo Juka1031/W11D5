@@ -1,1 +1,1 @@
-json.extract! @gift
+json.extract! @gift, :title, :description
